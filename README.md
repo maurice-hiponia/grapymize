@@ -1,1 +1,1 @@
-# grapymize
+# Graphymize: A Shopify Admin Tool
